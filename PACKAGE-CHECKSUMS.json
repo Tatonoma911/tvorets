@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "files": [
     {
       "path": ".gitignore",
@@ -11,11 +11,11 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "bdc1e91769287d42be8d441da2c75bf89c6fa3638606d74f83a1671de442d9ef"
+      "sha256": "4fe506e8733ff9d46dafb219e1ea6bc6cf790b99e6839b1c42865244724612b4"
     },
     {
       "path": "CONTINUITY-AND-HANDOFF.md",
-      "sha256": "557efe256929a543f24535563115a3343987e4fc553fc9d4205e8bf0ee83040f"
+      "sha256": "7555d583ac6f10887c00c6cfb0b0bc55f96612016de52db421722786730bd3cf"
     },
     {
       "path": "EVIDENCE.md",
@@ -23,27 +23,111 @@
     },
     {
       "path": "PRODUCT-REVIEW.md",
-      "sha256": "eb75072398eb51748ba44fb84843fdefe8d52938368c3efdc74f3d9984baa110"
+      "sha256": "206f69e3acdc0ccd23a546fec6aca8f7bb72c08a2af4c4b0ebfbc3830f510ce3"
     },
     {
       "path": "PROJECT-STATE.template.md",
-      "sha256": "f357cfc29b213951c1f3a5823611fc1e37de9b0c14dee0606f3e101dbb9dc0c5"
+      "sha256": "a8d2399c395d2d6f0bb85f1a1456660645ff2baf48b80c7a3ff0f1c0bf6f6f4d"
     },
     {
       "path": "QUICKSTART.md",
-      "sha256": "349efa8c029cb847e6a65fccc1c44c0a9f132dd1c77d77b5e18b4b0c8691eb2c"
+      "sha256": "14506c8a6112440c547dacacfe263181be377d8d934367ae723c5ab5b48a6bcf"
     },
     {
       "path": "README.md",
-      "sha256": "68a42a4e659f3592461e557bb1ad6340d8947b6d73f9658180130b7ba81589f4"
+      "sha256": "38b5d628cf00aa1c213f8eeca9ee6a2733dbac3c2bcc1f06d7acb62a179f46c4"
+    },
+    {
+      "path": "references/AUTONOMOUS-REPAIR.md",
+      "sha256": "81e4a8c4b6bc6c971758a989e3a3fd149f7230ebf0f384eb2707370456d9bcbf"
+    },
+    {
+      "path": "references/CONTINUITY-AND-HANDOFF.md",
+      "sha256": "7555d583ac6f10887c00c6cfb0b0bc55f96612016de52db421722786730bd3cf"
+    },
+    {
+      "path": "references/EVIDENCE.md",
+      "sha256": "8dc44e8cdd6e340f0b39f1303459f366382e30e1b8fe6506adbbf528cd7b4f7f"
+    },
+    {
+      "path": "references/PRODUCT-REVIEW.md",
+      "sha256": "206f69e3acdc0ccd23a546fec6aca8f7bb72c08a2af4c4b0ebfbc3830f510ce3"
+    },
+    {
+      "path": "references/PROJECT-STATE.template.md",
+      "sha256": "a8d2399c395d2d6f0bb85f1a1456660645ff2baf48b80c7a3ff0f1c0bf6f6f4d"
+    },
+    {
+      "path": "references/TEST-MATRIX.md",
+      "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
+    },
+    {
+      "path": "references/TEST-RESULTS-1.5.md",
+      "sha256": "27688eb52ea6566840dc822bcb27dc8691fd30dbecb02206dac726fd3211ae40"
+    },
+    {
+      "path": "references/TVORETS.md",
+      "sha256": "b11852c093e279edeeb46f646ce838504ba9a974683aa2c620755fa536e10b9b"
+    },
+    {
+      "path": "references/WEB-INTERACTION-QA.md",
+      "sha256": "14d5b7f6154086b62cbdd0ff9d84023d4e7cded92cdbe2adda3dcf8fcfde0ea6"
     },
     {
       "path": "REPORT.md",
-      "sha256": "0b4bab39c116910ce5a05a005f6c95fab460de4e49b9b22eae76ab6ab3ea7e79"
+      "sha256": "98a47522c117148f7c1cc5c8f558ee377e488509d262ad81c6ce26654a5d4b56"
+    },
+    {
+      "path": "scripts/check_evidence.py",
+      "sha256": "7b6fb7c86bcdc21913d11f292c0711db095b3e9a748e93a5765efabe33a82d4a"
+    },
+    {
+      "path": "skill/tvorets/references/AUTONOMOUS-REPAIR.md",
+      "sha256": "81e4a8c4b6bc6c971758a989e3a3fd149f7230ebf0f384eb2707370456d9bcbf"
+    },
+    {
+      "path": "skill/tvorets/references/CONTINUITY-AND-HANDOFF.md",
+      "sha256": "7555d583ac6f10887c00c6cfb0b0bc55f96612016de52db421722786730bd3cf"
+    },
+    {
+      "path": "skill/tvorets/references/EVIDENCE.md",
+      "sha256": "8dc44e8cdd6e340f0b39f1303459f366382e30e1b8fe6506adbbf528cd7b4f7f"
+    },
+    {
+      "path": "skill/tvorets/references/PRODUCT-REVIEW.md",
+      "sha256": "206f69e3acdc0ccd23a546fec6aca8f7bb72c08a2af4c4b0ebfbc3830f510ce3"
+    },
+    {
+      "path": "skill/tvorets/references/PROJECT-STATE.template.md",
+      "sha256": "a8d2399c395d2d6f0bb85f1a1456660645ff2baf48b80c7a3ff0f1c0bf6f6f4d"
+    },
+    {
+      "path": "skill/tvorets/references/TEST-MATRIX.md",
+      "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
+    },
+    {
+      "path": "skill/tvorets/references/TEST-RESULTS-1.5.md",
+      "sha256": "27688eb52ea6566840dc822bcb27dc8691fd30dbecb02206dac726fd3211ae40"
+    },
+    {
+      "path": "skill/tvorets/references/TVORETS.md",
+      "sha256": "b11852c093e279edeeb46f646ce838504ba9a974683aa2c620755fa536e10b9b"
+    },
+    {
+      "path": "skill/tvorets/references/WEB-INTERACTION-QA.md",
+      "sha256": "14d5b7f6154086b62cbdd0ff9d84023d4e7cded92cdbe2adda3dcf8fcfde0ea6"
+    },
+    {
+      "path": "skill/tvorets/scripts/check_evidence.py",
+      "sha256": "7b6fb7c86bcdc21913d11f292c0711db095b3e9a748e93a5765efabe33a82d4a"
+    },
+    {
+      "path": "skill/tvorets/SKILL.md",
+      "sha256": "e030715055cb989456a35ebbf22071510b83852df9924af9dac1d908fbfa6211"
     },
     {
       "path": "START.md",
-      "sha256": "d109c60dfd9ebcff0a405a3157949329b7f568ba5c08b07a80adece3c90746cd"
+      "sha256": "631249a8b6c3ecf5989cefc867a90a0389b6d34a21e0a4094955999dfd9fc1b8"
     },
     {
       "path": "TEST-MATRIX.md",
@@ -54,92 +138,28 @@
       "sha256": "fa08523daeb7f969902cf195df014787b03251345971d08b1139256854e871b4"
     },
     {
-      "path": "TVORETS.md",
-      "sha256": "bd5e69e0daea774d8f0da1e97f6f48e9cab7a6fc406e2ae70f4a33f133892a89"
+      "path": "TEST-RESULTS-1.5.md",
+      "sha256": "27688eb52ea6566840dc822bcb27dc8691fd30dbecb02206dac726fd3211ae40"
     },
     {
-      "path": "WEB-INTERACTION-QA.md",
-      "sha256": "14d5b7f6154086b62cbdd0ff9d84023d4e7cded92cdbe2adda3dcf8fcfde0ea6"
+      "path": "tests/goal-gate-cases.json",
+      "sha256": "1dbd274e87b7e69cfc0045dea08d21d9842383305ff6dee54158101f83d72f92"
     },
     {
-      "path": "references/AUTONOMOUS-REPAIR.md",
-      "sha256": "81e4a8c4b6bc6c971758a989e3a3fd149f7230ebf0f384eb2707370456d9bcbf"
-    },
-    {
-      "path": "references/CONTINUITY-AND-HANDOFF.md",
-      "sha256": "557efe256929a543f24535563115a3343987e4fc553fc9d4205e8bf0ee83040f"
-    },
-    {
-      "path": "references/EVIDENCE.md",
-      "sha256": "8dc44e8cdd6e340f0b39f1303459f366382e30e1b8fe6506adbbf528cd7b4f7f"
-    },
-    {
-      "path": "references/PRODUCT-REVIEW.md",
-      "sha256": "eb75072398eb51748ba44fb84843fdefe8d52938368c3efdc74f3d9984baa110"
-    },
-    {
-      "path": "references/PROJECT-STATE.template.md",
-      "sha256": "f357cfc29b213951c1f3a5823611fc1e37de9b0c14dee0606f3e101dbb9dc0c5"
-    },
-    {
-      "path": "references/TEST-MATRIX.md",
-      "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
-    },
-    {
-      "path": "references/TVORETS.md",
-      "sha256": "bd5e69e0daea774d8f0da1e97f6f48e9cab7a6fc406e2ae70f4a33f133892a89"
-    },
-    {
-      "path": "references/WEB-INTERACTION-QA.md",
-      "sha256": "14d5b7f6154086b62cbdd0ff9d84023d4e7cded92cdbe2adda3dcf8fcfde0ea6"
-    },
-    {
-      "path": "scripts/check_evidence.py",
-      "sha256": "7b6fb7c86bcdc21913d11f292c0711db095b3e9a748e93a5765efabe33a82d4a"
+      "path": "tests/goal-gate-observed.json",
+      "sha256": "da1d72e4ea9e127874b7e476d95cabf0c4a2c25d3582d6f48e99d4059cfe5a89"
     },
     {
       "path": "tests/test_evidence.py",
       "sha256": "9c614f1984e239861805a6a23487a4505d5bd6fb91bb5fe7fc1c4041e929e908"
     },
     {
-      "path": "skill/tvorets/SKILL.md",
-      "sha256": "ccccf3e3d7805691b820b50d9e1602f90da61e6592d6d1e6738b5a768728a3c4"
+      "path": "TVORETS.md",
+      "sha256": "b11852c093e279edeeb46f646ce838504ba9a974683aa2c620755fa536e10b9b"
     },
     {
-      "path": "skill/tvorets/references/AUTONOMOUS-REPAIR.md",
-      "sha256": "81e4a8c4b6bc6c971758a989e3a3fd149f7230ebf0f384eb2707370456d9bcbf"
-    },
-    {
-      "path": "skill/tvorets/references/CONTINUITY-AND-HANDOFF.md",
-      "sha256": "557efe256929a543f24535563115a3343987e4fc553fc9d4205e8bf0ee83040f"
-    },
-    {
-      "path": "skill/tvorets/references/EVIDENCE.md",
-      "sha256": "8dc44e8cdd6e340f0b39f1303459f366382e30e1b8fe6506adbbf528cd7b4f7f"
-    },
-    {
-      "path": "skill/tvorets/references/PRODUCT-REVIEW.md",
-      "sha256": "eb75072398eb51748ba44fb84843fdefe8d52938368c3efdc74f3d9984baa110"
-    },
-    {
-      "path": "skill/tvorets/references/PROJECT-STATE.template.md",
-      "sha256": "f357cfc29b213951c1f3a5823611fc1e37de9b0c14dee0606f3e101dbb9dc0c5"
-    },
-    {
-      "path": "skill/tvorets/references/TEST-MATRIX.md",
-      "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
-    },
-    {
-      "path": "skill/tvorets/references/TVORETS.md",
-      "sha256": "bd5e69e0daea774d8f0da1e97f6f48e9cab7a6fc406e2ae70f4a33f133892a89"
-    },
-    {
-      "path": "skill/tvorets/references/WEB-INTERACTION-QA.md",
+      "path": "WEB-INTERACTION-QA.md",
       "sha256": "14d5b7f6154086b62cbdd0ff9d84023d4e7cded92cdbe2adda3dcf8fcfde0ea6"
-    },
-    {
-      "path": "skill/tvorets/scripts/check_evidence.py",
-      "sha256": "7b6fb7c86bcdc21913d11f292c0711db095b3e9a748e93a5765efabe33a82d4a"
     }
   ]
 }
