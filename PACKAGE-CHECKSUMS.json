@@ -1,0 +1,145 @@
+{
+  "version": "1.4",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "b74d05e0dcc1e940e59f4fb31682a1e1c52ba3212891d5a2d07fe63c1aea74f9"
+    },
+    {
+      "path": "AUTONOMOUS-REPAIR.md",
+      "sha256": "81e4a8c4b6bc6c971758a989e3a3fd149f7230ebf0f384eb2707370456d9bcbf"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "7803cba5dd4ded2ed09f3d89ff621a2adb39174426751be3f2dd833dbcf07dd8"
+    },
+    {
+      "path": "CONTINUITY-AND-HANDOFF.md",
+      "sha256": "557efe256929a543f24535563115a3343987e4fc553fc9d4205e8bf0ee83040f"
+    },
+    {
+      "path": "EVIDENCE.md",
+      "sha256": "8dc44e8cdd6e340f0b39f1303459f366382e30e1b8fe6506adbbf528cd7b4f7f"
+    },
+    {
+      "path": "PRODUCT-REVIEW.md",
+      "sha256": "eb75072398eb51748ba44fb84843fdefe8d52938368c3efdc74f3d9984baa110"
+    },
+    {
+      "path": "PROJECT-STATE.template.md",
+      "sha256": "f357cfc29b213951c1f3a5823611fc1e37de9b0c14dee0606f3e101dbb9dc0c5"
+    },
+    {
+      "path": "QUICKSTART.md",
+      "sha256": "d241a0508e4282b80d126bd20354d0e6252cece25b6ac71b74af424434a0364b"
+    },
+    {
+      "path": "README.md",
+      "sha256": "c214129f5a291ad78e57007bdba9eaeee9752b16e150b91defe0472a009a5704"
+    },
+    {
+      "path": "REPORT.md",
+      "sha256": "6c774af636777d62a83a1823627f44d2e566410b3acac3b119ea15118d34401f"
+    },
+    {
+      "path": "START.md",
+      "sha256": "5bd5e7b2921f6aeefbe38d40ad060be27c0c1b4008936b057da6b52ec243ec47"
+    },
+    {
+      "path": "TEST-MATRIX.md",
+      "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
+    },
+    {
+      "path": "TEST-RESULTS-1.4.md",
+      "sha256": "fa08523daeb7f969902cf195df014787b03251345971d08b1139256854e871b4"
+    },
+    {
+      "path": "TVORETS.md",
+      "sha256": "27d6f635ee631215b69bafaa42cef05091f4cb0949aa093bff810c21a8c6e2bb"
+    },
+    {
+      "path": "WEB-INTERACTION-QA.md",
+      "sha256": "05c364223289c27b76a7f3a81b75c0037199c9a97ff315b1bb3aef384fc8f25e"
+    },
+    {
+      "path": "references/AUTONOMOUS-REPAIR.md",
+      "sha256": "81e4a8c4b6bc6c971758a989e3a3fd149f7230ebf0f384eb2707370456d9bcbf"
+    },
+    {
+      "path": "references/CONTINUITY-AND-HANDOFF.md",
+      "sha256": "557efe256929a543f24535563115a3343987e4fc553fc9d4205e8bf0ee83040f"
+    },
+    {
+      "path": "references/EVIDENCE.md",
+      "sha256": "8dc44e8cdd6e340f0b39f1303459f366382e30e1b8fe6506adbbf528cd7b4f7f"
+    },
+    {
+      "path": "references/PRODUCT-REVIEW.md",
+      "sha256": "eb75072398eb51748ba44fb84843fdefe8d52938368c3efdc74f3d9984baa110"
+    },
+    {
+      "path": "references/PROJECT-STATE.template.md",
+      "sha256": "f357cfc29b213951c1f3a5823611fc1e37de9b0c14dee0606f3e101dbb9dc0c5"
+    },
+    {
+      "path": "references/TEST-MATRIX.md",
+      "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
+    },
+    {
+      "path": "references/TVORETS.md",
+      "sha256": "27d6f635ee631215b69bafaa42cef05091f4cb0949aa093bff810c21a8c6e2bb"
+    },
+    {
+      "path": "references/WEB-INTERACTION-QA.md",
+      "sha256": "05c364223289c27b76a7f3a81b75c0037199c9a97ff315b1bb3aef384fc8f25e"
+    },
+    {
+      "path": "scripts/check_evidence.py",
+      "sha256": "7b6fb7c86bcdc21913d11f292c0711db095b3e9a748e93a5765efabe33a82d4a"
+    },
+    {
+      "path": "tests/test_evidence.py",
+      "sha256": "4f1d80ce1eadf334dd3e3b758385b2f2a10870b30d483773a170294d9c8154c4"
+    },
+    {
+      "path": "skill/tvorets/SKILL.md",
+      "sha256": "42c0b5090522ea4263fb52ae8e69612434ba8667dc4950b63607aca825388463"
+    },
+    {
+      "path": "skill/tvorets/references/AUTONOMOUS-REPAIR.md",
+      "sha256": "81e4a8c4b6bc6c971758a989e3a3fd149f7230ebf0f384eb2707370456d9bcbf"
+    },
+    {
+      "path": "skill/tvorets/references/CONTINUITY-AND-HANDOFF.md",
+      "sha256": "557efe256929a543f24535563115a3343987e4fc553fc9d4205e8bf0ee83040f"
+    },
+    {
+      "path": "skill/tvorets/references/EVIDENCE.md",
+      "sha256": "8dc44e8cdd6e340f0b39f1303459f366382e30e1b8fe6506adbbf528cd7b4f7f"
+    },
+    {
+      "path": "skill/tvorets/references/PRODUCT-REVIEW.md",
+      "sha256": "eb75072398eb51748ba44fb84843fdefe8d52938368c3efdc74f3d9984baa110"
+    },
+    {
+      "path": "skill/tvorets/references/PROJECT-STATE.template.md",
+      "sha256": "f357cfc29b213951c1f3a5823611fc1e37de9b0c14dee0606f3e101dbb9dc0c5"
+    },
+    {
+      "path": "skill/tvorets/references/TEST-MATRIX.md",
+      "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
+    },
+    {
+      "path": "skill/tvorets/references/TVORETS.md",
+      "sha256": "27d6f635ee631215b69bafaa42cef05091f4cb0949aa093bff810c21a8c6e2bb"
+    },
+    {
+      "path": "skill/tvorets/references/WEB-INTERACTION-QA.md",
+      "sha256": "05c364223289c27b76a7f3a81b75c0037199c9a97ff315b1bb3aef384fc8f25e"
+    },
+    {
+      "path": "skill/tvorets/scripts/check_evidence.py",
+      "sha256": "7b6fb7c86bcdc21913d11f292c0711db095b3e9a748e93a5765efabe33a82d4a"
+    }
+  ]
+}
