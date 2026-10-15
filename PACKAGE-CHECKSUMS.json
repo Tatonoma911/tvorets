@@ -231,7 +231,7 @@
     },
     {
       "path": "tests/goal-gate-observed.json",
-      "sha256": "da1d72e4ea9e127874b7e476d95cabf0c4a2c25d3582d6f48e99d4059cfe5a89"
+      "sha256": "7faefda12ebef150d4b8cd19cab2c1b8568e8ce7439e5c69f0e945d26a12a344"
     },
     {
       "path": "tests/test_evidence.py",
