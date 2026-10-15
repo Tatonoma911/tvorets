@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "files": [
     {
       "path": ".gitignore",
@@ -11,11 +11,11 @@
     },
     {
       "path": "CAPABILITY-ROUTER.md",
-      "sha256": "260060f716b2e66435f3903a198f604c296f2402be2367f4201f2adc6a469eb2"
+      "sha256": "f6ab15c62c2aa5bcc6587433bb10e81524535fae884aff78cc30bd1aacfb267e"
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "cebabadb315f6692aa7a29eadf6489c22f0eff48f72d60495efa1164505cdae8"
+      "sha256": "6bbe035955292c099abdf1a1e972bcb72820139ee1093b141082ea9cd2e80f2b"
     },
     {
       "path": "CONTINUITY-AND-HANDOFF.md",
@@ -43,7 +43,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "a52b249b6c87eb36add36d927f6b47f94f61992c162202a05afd6c404eb087a0"
+      "sha256": "a8901f45581874a79d674b2138fb6092a92fb621bd9b11408fc8a5bc489f1fdc"
     },
     {
       "path": "references/AUTONOMOUS-REPAIR.md",
@@ -51,7 +51,11 @@
     },
     {
       "path": "references/CAPABILITY-ROUTER.md",
-      "sha256": "260060f716b2e66435f3903a198f604c296f2402be2367f4201f2adc6a469eb2"
+      "sha256": "f6ab15c62c2aa5bcc6587433bb10e81524535fae884aff78cc30bd1aacfb267e"
+    },
+    {
+      "path": "references/CHANGELOG.md",
+      "sha256": "6bbe035955292c099abdf1a1e972bcb72820139ee1093b141082ea9cd2e80f2b"
     },
     {
       "path": "references/CONTINUITY-AND-HANDOFF.md",
@@ -74,6 +78,14 @@
       "sha256": "a8d2399c395d2d6f0bb85f1a1456660645ff2baf48b80c7a3ff0f1c0bf6f6f4d"
     },
     {
+      "path": "references/SKILL-ORCHESTRATION.md",
+      "sha256": "a19dd894bd285a2626ef3d502ba84c564fc1c70f56e238d727ada2ce8cc093a4"
+    },
+    {
+      "path": "references/START.md",
+      "sha256": "3204f38af2f2acd194155649acf1d1d5f6f07de1de596d88bf7464feeed6ea3c"
+    },
+    {
       "path": "references/TEST-MATRIX.md",
       "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
     },
@@ -86,8 +98,12 @@
       "sha256": "7723febc1046eaa942ad5402daa32e8fea1ce3515f8c9e3beeb9bf85f48a96c4"
     },
     {
+      "path": "references/TEST-RESULTS-1.7.md",
+      "sha256": "37d43695ed7352c5738830aa16b9c1ec59af06e506c36e3d452fb99b2a276ac1"
+    },
+    {
       "path": "references/TVORETS.md",
-      "sha256": "d6123296b0b6a7a66cf470fd1edabc6dfdbb591b52ce0371ebbb3bc5629ab7e9"
+      "sha256": "447620b000111f509961b0d2266d0b75468bd00d38a0f86cad016423d398a1e4"
     },
     {
       "path": "references/WEB-INTERACTION-QA.md",
@@ -107,7 +123,11 @@
     },
     {
       "path": "skill/tvorets/references/CAPABILITY-ROUTER.md",
-      "sha256": "260060f716b2e66435f3903a198f604c296f2402be2367f4201f2adc6a469eb2"
+      "sha256": "f6ab15c62c2aa5bcc6587433bb10e81524535fae884aff78cc30bd1aacfb267e"
+    },
+    {
+      "path": "skill/tvorets/references/CHANGELOG.md",
+      "sha256": "6bbe035955292c099abdf1a1e972bcb72820139ee1093b141082ea9cd2e80f2b"
     },
     {
       "path": "skill/tvorets/references/CONTINUITY-AND-HANDOFF.md",
@@ -130,6 +150,14 @@
       "sha256": "a8d2399c395d2d6f0bb85f1a1456660645ff2baf48b80c7a3ff0f1c0bf6f6f4d"
     },
     {
+      "path": "skill/tvorets/references/SKILL-ORCHESTRATION.md",
+      "sha256": "a19dd894bd285a2626ef3d502ba84c564fc1c70f56e238d727ada2ce8cc093a4"
+    },
+    {
+      "path": "skill/tvorets/references/START.md",
+      "sha256": "3204f38af2f2acd194155649acf1d1d5f6f07de1de596d88bf7464feeed6ea3c"
+    },
+    {
       "path": "skill/tvorets/references/TEST-MATRIX.md",
       "sha256": "2f99b78f45f0388f626fabbf042244aef44c5fc2148261dfd3ded605e2e67a91"
     },
@@ -142,8 +170,12 @@
       "sha256": "7723febc1046eaa942ad5402daa32e8fea1ce3515f8c9e3beeb9bf85f48a96c4"
     },
     {
+      "path": "skill/tvorets/references/TEST-RESULTS-1.7.md",
+      "sha256": "37d43695ed7352c5738830aa16b9c1ec59af06e506c36e3d452fb99b2a276ac1"
+    },
+    {
       "path": "skill/tvorets/references/TVORETS.md",
-      "sha256": "d6123296b0b6a7a66cf470fd1edabc6dfdbb591b52ce0371ebbb3bc5629ab7e9"
+      "sha256": "447620b000111f509961b0d2266d0b75468bd00d38a0f86cad016423d398a1e4"
     },
     {
       "path": "skill/tvorets/references/WEB-INTERACTION-QA.md",
@@ -155,11 +187,15 @@
     },
     {
       "path": "skill/tvorets/SKILL.md",
-      "sha256": "de86dac0a63680ef7b27d8f168db94d76e56837122ed23b42dcb9714fb3867ef"
+      "sha256": "776b17b0812d085089997a329dce85abcdeb57aed97bb8af51e9d058bea22c1c"
+    },
+    {
+      "path": "SKILL-ORCHESTRATION.md",
+      "sha256": "a19dd894bd285a2626ef3d502ba84c564fc1c70f56e238d727ada2ce8cc093a4"
     },
     {
       "path": "START.md",
-      "sha256": "b683679e3e8908a2d441a6e4468da90c3d59ddd23eb494bb14fb9ff93b7d4a99"
+      "sha256": "3204f38af2f2acd194155649acf1d1d5f6f07de1de596d88bf7464feeed6ea3c"
     },
     {
       "path": "TEST-MATRIX.md",
@@ -178,6 +214,10 @@
       "sha256": "7723febc1046eaa942ad5402daa32e8fea1ce3515f8c9e3beeb9bf85f48a96c4"
     },
     {
+      "path": "TEST-RESULTS-1.7.md",
+      "sha256": "37d43695ed7352c5738830aa16b9c1ec59af06e506c36e3d452fb99b2a276ac1"
+    },
+    {
       "path": "tests/goal-gate-cases.json",
       "sha256": "1dbd274e87b7e69cfc0045dea08d21d9842383305ff6dee54158101f83d72f92"
     },
@@ -191,7 +231,7 @@
     },
     {
       "path": "TVORETS.md",
-      "sha256": "d6123296b0b6a7a66cf470fd1edabc6dfdbb591b52ce0371ebbb3bc5629ab7e9"
+      "sha256": "447620b000111f509961b0d2266d0b75468bd00d38a0f86cad016423d398a1e4"
     },
     {
       "path": "WEB-INTERACTION-QA.md",
