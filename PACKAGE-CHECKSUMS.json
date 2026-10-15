@@ -3,7 +3,7 @@
   "files": [
     {
       "path": ".gitignore",
-      "sha256": "b74d05e0dcc1e940e59f4fb31682a1e1c52ba3212891d5a2d07fe63c1aea74f9"
+      "sha256": "f8ff48219effc5d592cca133ad471f9b40648b6cd3e56db59b8604e76947ad81"
     },
     {
       "path": "AUTONOMOUS-REPAIR.md",
@@ -11,7 +11,7 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "7803cba5dd4ded2ed09f3d89ff621a2adb39174426751be3f2dd833dbcf07dd8"
+      "sha256": "bdc1e91769287d42be8d441da2c75bf89c6fa3638606d74f83a1671de442d9ef"
     },
     {
       "path": "CONTINUITY-AND-HANDOFF.md",
@@ -31,19 +31,19 @@
     },
     {
       "path": "QUICKSTART.md",
-      "sha256": "d241a0508e4282b80d126bd20354d0e6252cece25b6ac71b74af424434a0364b"
+      "sha256": "349efa8c029cb847e6a65fccc1c44c0a9f132dd1c77d77b5e18b4b0c8691eb2c"
     },
     {
       "path": "README.md",
-      "sha256": "c214129f5a291ad78e57007bdba9eaeee9752b16e150b91defe0472a009a5704"
+      "sha256": "68a42a4e659f3592461e557bb1ad6340d8947b6d73f9658180130b7ba81589f4"
     },
     {
       "path": "REPORT.md",
-      "sha256": "6c774af636777d62a83a1823627f44d2e566410b3acac3b119ea15118d34401f"
+      "sha256": "0b4bab39c116910ce5a05a005f6c95fab460de4e49b9b22eae76ab6ab3ea7e79"
     },
     {
       "path": "START.md",
-      "sha256": "5bd5e7b2921f6aeefbe38d40ad060be27c0c1b4008936b057da6b52ec243ec47"
+      "sha256": "d109c60dfd9ebcff0a405a3157949329b7f568ba5c08b07a80adece3c90746cd"
     },
     {
       "path": "TEST-MATRIX.md",
@@ -55,11 +55,11 @@
     },
     {
       "path": "TVORETS.md",
-      "sha256": "27d6f635ee631215b69bafaa42cef05091f4cb0949aa093bff810c21a8c6e2bb"
+      "sha256": "bd5e69e0daea774d8f0da1e97f6f48e9cab7a6fc406e2ae70f4a33f133892a89"
     },
     {
       "path": "WEB-INTERACTION-QA.md",
-      "sha256": "05c364223289c27b76a7f3a81b75c0037199c9a97ff315b1bb3aef384fc8f25e"
+      "sha256": "14d5b7f6154086b62cbdd0ff9d84023d4e7cded92cdbe2adda3dcf8fcfde0ea6"
     },
     {
       "path": "references/AUTONOMOUS-REPAIR.md",
@@ -87,11 +87,11 @@
     },
     {
       "path": "references/TVORETS.md",
-      "sha256": "27d6f635ee631215b69bafaa42cef05091f4cb0949aa093bff810c21a8c6e2bb"
+      "sha256": "bd5e69e0daea774d8f0da1e97f6f48e9cab7a6fc406e2ae70f4a33f133892a89"
     },
     {
       "path": "references/WEB-INTERACTION-QA.md",
-      "sha256": "05c364223289c27b76a7f3a81b75c0037199c9a97ff315b1bb3aef384fc8f25e"
+      "sha256": "14d5b7f6154086b62cbdd0ff9d84023d4e7cded92cdbe2adda3dcf8fcfde0ea6"
     },
     {
       "path": "scripts/check_evidence.py",
@@ -99,11 +99,11 @@
     },
     {
       "path": "tests/test_evidence.py",
-      "sha256": "4f1d80ce1eadf334dd3e3b758385b2f2a10870b30d483773a170294d9c8154c4"
+      "sha256": "9c614f1984e239861805a6a23487a4505d5bd6fb91bb5fe7fc1c4041e929e908"
     },
     {
       "path": "skill/tvorets/SKILL.md",
-      "sha256": "42c0b5090522ea4263fb52ae8e69612434ba8667dc4950b63607aca825388463"
+      "sha256": "ccccf3e3d7805691b820b50d9e1602f90da61e6592d6d1e6738b5a768728a3c4"
     },
     {
       "path": "skill/tvorets/references/AUTONOMOUS-REPAIR.md",
@@ -131,11 +131,11 @@
     },
     {
       "path": "skill/tvorets/references/TVORETS.md",
-      "sha256": "27d6f635ee631215b69bafaa42cef05091f4cb0949aa093bff810c21a8c6e2bb"
+      "sha256": "bd5e69e0daea774d8f0da1e97f6f48e9cab7a6fc406e2ae70f4a33f133892a89"
     },
     {
       "path": "skill/tvorets/references/WEB-INTERACTION-QA.md",
-      "sha256": "05c364223289c27b76a7f3a81b75c0037199c9a97ff315b1bb3aef384fc8f25e"
+      "sha256": "14d5b7f6154086b62cbdd0ff9d84023d4e7cded92cdbe2adda3dcf8fcfde0ea6"
     },
     {
       "path": "skill/tvorets/scripts/check_evidence.py",
