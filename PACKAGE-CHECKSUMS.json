@@ -11,11 +11,11 @@
     },
     {
       "path": "CAPABILITY-ROUTER.md",
-      "sha256": "3516fde23694e9b3a8227ac98dfdb8fb8e12951f33ac2144fa8f619eace19957"
+      "sha256": "e762cbb34126e5ba2b8f5a6355f7242b7581b4a9c489708864b2a13b308b4351"
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "519a008b26ee3f733d8a1f53c23748e4f3fdf16308fad0b1ee59b08cd52f2fc3"
+      "sha256": "cebabadb315f6692aa7a29eadf6489c22f0eff48f72d60495efa1164505cdae8"
     },
     {
       "path": "CONTINUITY-AND-HANDOFF.md",
@@ -27,7 +27,7 @@
     },
     {
       "path": "KNOWLEDGE-LIBRARY.md",
-      "sha256": "1989209e1d7ec875682d60e8ffeb47d4aa57754e65d025150d96836311d3fde7"
+      "sha256": "f66dc16bfb63aea90cb4fe1b8d67b43385a649cbf1cf592a341b3440a60b237d"
     },
     {
       "path": "PRODUCT-REVIEW.md",
@@ -51,7 +51,7 @@
     },
     {
       "path": "references/CAPABILITY-ROUTER.md",
-      "sha256": "3516fde23694e9b3a8227ac98dfdb8fb8e12951f33ac2144fa8f619eace19957"
+      "sha256": "e762cbb34126e5ba2b8f5a6355f7242b7581b4a9c489708864b2a13b308b4351"
     },
     {
       "path": "references/CONTINUITY-AND-HANDOFF.md",
@@ -63,7 +63,7 @@
     },
     {
       "path": "references/KNOWLEDGE-LIBRARY.md",
-      "sha256": "1989209e1d7ec875682d60e8ffeb47d4aa57754e65d025150d96836311d3fde7"
+      "sha256": "f66dc16bfb63aea90cb4fe1b8d67b43385a649cbf1cf592a341b3440a60b237d"
     },
     {
       "path": "references/PRODUCT-REVIEW.md",
@@ -83,7 +83,7 @@
     },
     {
       "path": "references/TEST-RESULTS-1.6.md",
-      "sha256": "fbf7c75cdcd978bf9e0242387a99bcdc6ba0fddbdcdd89ba98d5958617652d5a"
+      "sha256": "7723febc1046eaa942ad5402daa32e8fea1ce3515f8c9e3beeb9bf85f48a96c4"
     },
     {
       "path": "references/TVORETS.md",
@@ -107,7 +107,7 @@
     },
     {
       "path": "skill/tvorets/references/CAPABILITY-ROUTER.md",
-      "sha256": "3516fde23694e9b3a8227ac98dfdb8fb8e12951f33ac2144fa8f619eace19957"
+      "sha256": "e762cbb34126e5ba2b8f5a6355f7242b7581b4a9c489708864b2a13b308b4351"
     },
     {
       "path": "skill/tvorets/references/CONTINUITY-AND-HANDOFF.md",
@@ -119,7 +119,7 @@
     },
     {
       "path": "skill/tvorets/references/KNOWLEDGE-LIBRARY.md",
-      "sha256": "1989209e1d7ec875682d60e8ffeb47d4aa57754e65d025150d96836311d3fde7"
+      "sha256": "f66dc16bfb63aea90cb4fe1b8d67b43385a649cbf1cf592a341b3440a60b237d"
     },
     {
       "path": "skill/tvorets/references/PRODUCT-REVIEW.md",
@@ -139,7 +139,7 @@
     },
     {
       "path": "skill/tvorets/references/TEST-RESULTS-1.6.md",
-      "sha256": "fbf7c75cdcd978bf9e0242387a99bcdc6ba0fddbdcdd89ba98d5958617652d5a"
+      "sha256": "7723febc1046eaa942ad5402daa32e8fea1ce3515f8c9e3beeb9bf85f48a96c4"
     },
     {
       "path": "skill/tvorets/references/TVORETS.md",
@@ -175,7 +175,7 @@
     },
     {
       "path": "TEST-RESULTS-1.6.md",
-      "sha256": "fbf7c75cdcd978bf9e0242387a99bcdc6ba0fddbdcdd89ba98d5958617652d5a"
+      "sha256": "7723febc1046eaa942ad5402daa32e8fea1ce3515f8c9e3beeb9bf85f48a96c4"
     },
     {
       "path": "tests/goal-gate-cases.json",
