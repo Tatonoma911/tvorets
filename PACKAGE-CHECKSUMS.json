@@ -38,12 +38,20 @@
       "sha256": "a8d2399c395d2d6f0bb85f1a1456660645ff2baf48b80c7a3ff0f1c0bf6f6f4d"
     },
     {
+      "path": "QUICKSTART.en.md",
+      "sha256": "015af42c77b21683116e4007a26169e7e06f4d3509180509a22104f0e3b98ce2"
+    },
+    {
       "path": "QUICKSTART.md",
-      "sha256": "14506c8a6112440c547dacacfe263181be377d8d934367ae723c5ab5b48a6bcf"
+      "sha256": "3d8cb3c205000dcb6da3a15ce8441f3a11bf5771c1cc1763a7a8a157c09470d2"
+    },
+    {
+      "path": "README.en.md",
+      "sha256": "80c21e1bd8dfbe1f817049e5fffe316e5f237eb7a9d08582e677955af5a18a16"
     },
     {
       "path": "README.md",
-      "sha256": "a8901f45581874a79d674b2138fb6092a92fb621bd9b11408fc8a5bc489f1fdc"
+      "sha256": "c1ac2a8ff9714d3c8b70a0b17686bc2f8fcc8d971b925af7efdfc6554a8f0464"
     },
     {
       "path": "references/AUTONOMOUS-REPAIR.md",
@@ -111,7 +119,7 @@
     },
     {
       "path": "REPORT.md",
-      "sha256": "e24020e7412f6c29ad9b8194f90d243f28af7520cf451489bd0a08a3f162b0dc"
+      "sha256": "7ce05a4420d75cc5ee89006f20dc2e451e3ef106f239e90fdf945d5b9ce2a28a"
     },
     {
       "path": "scripts/check_evidence.py",
