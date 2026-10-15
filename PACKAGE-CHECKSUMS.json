@@ -11,7 +11,7 @@
     },
     {
       "path": "CAPABILITY-ROUTER.md",
-      "sha256": "e762cbb34126e5ba2b8f5a6355f7242b7581b4a9c489708864b2a13b308b4351"
+      "sha256": "260060f716b2e66435f3903a198f604c296f2402be2367f4201f2adc6a469eb2"
     },
     {
       "path": "CHANGELOG.md",
@@ -51,7 +51,7 @@
     },
     {
       "path": "references/CAPABILITY-ROUTER.md",
-      "sha256": "e762cbb34126e5ba2b8f5a6355f7242b7581b4a9c489708864b2a13b308b4351"
+      "sha256": "260060f716b2e66435f3903a198f604c296f2402be2367f4201f2adc6a469eb2"
     },
     {
       "path": "references/CONTINUITY-AND-HANDOFF.md",
@@ -107,7 +107,7 @@
     },
     {
       "path": "skill/tvorets/references/CAPABILITY-ROUTER.md",
-      "sha256": "e762cbb34126e5ba2b8f5a6355f7242b7581b4a9c489708864b2a13b308b4351"
+      "sha256": "260060f716b2e66435f3903a198f604c296f2402be2367f4201f2adc6a469eb2"
     },
     {
       "path": "skill/tvorets/references/CONTINUITY-AND-HANDOFF.md",
